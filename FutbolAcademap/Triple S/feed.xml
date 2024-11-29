@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+<<<<<<< HEAD
+    <title>Triple S Football Academy</title>
+    <description>The Triple S Football Academy provides a variety of programs, such as week-long skills camps, large group football courses, team and coach clinics, and one-on-one and small group private sessions. We offer what you're searching for when it comes to football!</description>
+    <link>http://triplesfootballacademy.com/</link>
+    <atom:link href="http://triplesfootballacademy.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Sep 2023 13:43:02 +0200</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 13:43:02 +0200</lastBuildDate>
+=======
+    <title>Bartlomé Soccer Academy</title>
+    <description>Bartlomé Soccer Academy offers a wide range of programs including 1 on 1 and Small Group private sessions, Large Group Soccer Courses, Team &amp; Coaches Clinics and week long Skills Camps. Rest assured, when it comes to Soccer, we have what you're looking for!</description>
+    <link>http://bartlomesocceracademy.com/</link>
+    <atom:link href="http://bartlomesocceracademy.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 Nov 2023 06:45:24 +0100</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 06:45:24 +0100</lastBuildDate>
+>>>>>>> ad6559a0984feb682529d07c09808ead557c240e
+    <generator>Jekyll v4.3.2</generator>
+    
+  </channel>
+</rss>
